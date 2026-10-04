@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sri%20Sandeep%20Sakthivel&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2c5364&height=160&section=header&text=Sri%20Sandeep%20Sakthivel&fontColor=ffffff&fontSize=42" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Automating+AWS+with+Terraform+%26+Python;Shipping+containers+on+Docker+%26+Kubernetes;Building+CI%2FCD+that+deploys+with+zero+downtime;Observability+nerd%3A+Prometheus+%C2%B7+Grafana+%C2%B7+CloudWatch;4%C3%97+AWS+%2B+HashiCorp+Certified)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srisandeep1)
 ![Location](https://img.shields.io/badge/Dublin-Ireland-169B62?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=sri-sandeep108&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
 
 </div>
 
@@ -107,14 +106,6 @@ I'm a **DevOps & Cloud Engineer** with 2+ years of production experience automat
 
 </div>
 
-### 🏆 Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sri-sandeep108&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=sri-sandeep108&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -125,9 +116,7 @@ I'm a **DevOps & Cloud Engineer** with 2+ years of production experience automat
 
 **Open to DevOps, Cloud and Platform Engineering roles.** Let's connect on [LinkedIn](https://linkedin.com/in/srisandeep1) 🤝
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
-
-[![](https://visitcount.itsvg.in/api?id=sri-sandeep108&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2c5364&height=80&section=footer" alt="footer" />
 
 </div>
 
