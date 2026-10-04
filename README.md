@@ -33,14 +33,14 @@ I'm a **DevOps & Cloud Engineer** with 2+ years of production experience automat
 
 ## 🚀 Featured Projects
 
-### ☁️ Cloud-Native MLOps Platform
+### ☁️ [Cloud-Native MLOps Platform](https://github.com/sri-sandeep108/hate-speech-classifier)
 `FastAPI` `AWS EKS` `Terraform` `Docker` `GitHub Actions` `Prometheus` `Grafana`
 
 - Served a fine-tuned **DistilBERT** model through FastAPI at **<15ms inference latency** and **92.8% macro ROC-AUC**
 - Provisioned multi-AZ VPC, **EKS (v1.31)** with managed node groups, ECR and IAM OIDC auth entirely with **Terraform**
 - Built **GitHub Actions** pipelines for multi-platform Docker builds and **zero-downtime rolling deployments**, with real-time model telemetry in Prometheus and Grafana
 
-### 🧠 Transformer NLP Benchmark *(MSc Dissertation)*
+### 🧠 [Transformer NLP Benchmark](https://github.com/sri-sandeep108/hate-speech-transformer-benchmark) *(MSc Dissertation)*
 `Python` `PyTorch` `Hugging Face` `spaCy` `DistilBERT`
 
 - Benchmarked **5 architectures** (DistilBERT, BERT, RoBERTa, ELECTRA, GloVe) on a **446k-sample** corpus using NVIDIA GPUs
